@@ -54,7 +54,7 @@ Some definitions:
 
 ### Objectives
 
-* Explore how early Spanish-English bilinguals use the Spanish MF and the PF in general, as well as the PI and the PP for future reference, in natural speech
+* Explore how heritage speakers of Spanish use the Spanish MF and the PF in general, as well as the PI and the PP for future reference, in natural speech
 
 * Test the semantic-pragmatic and social factors that constrain the variable use of the MF, PF, PI, and PP
 
@@ -110,7 +110,7 @@ Coding procedure:
 <b> Goal: </b> To examine the reported preference for the expression of futurity in Spanish and the locus of variation
 
 * Participants (anticipated, N=100):
-    * Min. 60 adult early Spanish-English bilinguals (i.e., Spanish heritage speakers) in the U.S.
+    * Min. 60 adult Spanish heritage speakers in the U.S.
     * Min. 20 adult Spanish monolinguals
     * Min. 20 adult English monolinguals
 
@@ -204,8 +204,7 @@ Coding procedure:
 ---
 # Initial Observations
 
-ADD PLOT
-
+<img src="assets/hls_plot.png" alt="" style="width:90%;">
 
 ???
 
